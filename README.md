@@ -1,6 +1,8 @@
-# 運程預測大師 — Public Pages
+# 日跡 — App Store 支援頁
 
-GitHub Pages for App Store Connect:
+Public site for App Store Connect:
 
-- Support: https://kirafilm.github.io/fortune-master-pages/support.html
-- Privacy: https://kirafilm.github.io/fortune-master-pages/privacy.html
+- Support: `support.html`
+- Privacy: `privacy.html`
+
+Live URL (after push): https://kirafilm.github.io/fortune-master-pages/
